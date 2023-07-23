@@ -22,9 +22,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="1.2412267"
-   inkscape:cx="445.12417"
-   inkscape:cy="283.99325"
+   inkscape:zoom="0.51773899"
+   inkscape:cx="539.84731"
+   inkscape:cy="549.50468"
    inkscape:document-units="mm"
    inkscape:current-layer="layer1"
    inkscape:document-rotation="0"
@@ -32,9 +32,9 @@
    inkscape:showpageshadow="2"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:window-width="1440"
+   inkscape:window-width="1280"
    inkscape:window-height="847"
-   inkscape:window-x="0"
+   inkscape:window-x="160"
    inkscape:window-y="25"
    inkscape:window-maximized="0">
   <inkscape:grid
@@ -46,6 +46,11 @@
      originx="0"
      originy="0" />
 </sodipodi:namedview>
+
+
+
+
+
 
 
 
@@ -81,7 +86,14 @@
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="Print"
-   style="display:none">
+   style="display:inline">
+  <rect
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#0000ff;fill-opacity:0.60000002;fill-rule:evenodd;stroke:none;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     id="rect7114-3-4"
+     width="139.84254"
+     height="393.07089"
+     x="975.1181"
+     y="30.236219" />
   <path
      style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      d="M 676.53544,389.29135 H 816.37796 V 491.33859 H 740.78741 V 548.0315 H 676.53544 Z"
@@ -110,13 +122,6 @@
      y="-650.07867"
      transform="rotate(90)" />
   <rect
-     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-     id="rect7114"
-     width="52.913334"
-     height="185.19687"
-     x="903.30707"
-     y="351.49606" />
-  <rect
      style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect7116"
      width="90.708496"
@@ -127,12 +132,58 @@
      style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      d="m 771.02363,491.33859 h 56.69291 v -75.59055 h 64.25198 V 555.59056 H 771.02363 v -64.25197"
      id="path1099" />
+  <text
+     xml:space="preserve"
+     style="display:inline;font-style:normal;font-weight:normal;font-size:21.0579px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+     x="-542.62457"
+     y="59.765095"
+     id="text251-72"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan249-3"
+       x="-542.62457"
+       y="59.765095"
+       style="stroke-width:0.999998">VDD</tspan></text>
+  <text
+     xml:space="preserve"
+     style="display:inline;font-style:normal;font-weight:normal;font-size:21.0579px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+     x="-540.69153"
+     y="336.47397"
+     id="text251-72-3"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan249-3-8"
+       x="-540.69153"
+       y="336.47397"
+       style="stroke-width:0.999998">VSS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:21.0579px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+     x="983.4845"
+     y="85.297195"
+     id="text251"><tspan
+       sodipodi:role="line"
+       id="tspan249"
+       x="983.4845"
+       y="85.297195"
+       style="stroke-width:0.999998">OUT</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:21.0579px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998"
+     x="1014.2778"
+     y="384.4408"
+     id="text251-7"><tspan
+       sodipodi:role="line"
+       id="tspan249-0"
+       x="1014.2778"
+       y="384.4408"
+       style="stroke-width:0.999998">IN</tspan></text>
 </g>
 <g
    inkscape:groupmode="layer"
    id="layer5"
    inkscape:label="Cut"
-   style="display:inline">
+   style="display:none">
   <rect
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.377952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect554"
@@ -168,15 +219,40 @@
      id="path1101" />
   <path
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-     d="m 910.86616,359.05513 h 18.89763 v 18.89763 h 18.89764 v 151.1811 h -37.79527 z"
+     d="m 910.86616,340.15749 h 18.89763 v 18.89763 h 18.89764 v 151.1811 h -37.79527 z"
      id="path1105" />
   <rect
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.377954;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
      id="rect187"
-     width="963.77954"
+     width="1099.6223"
      height="548.03149"
      x="18.897638"
      y="18.897638"
-     rx="19.275589" />
+     rx="21.992447" />
+  <rect
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     id="rect4373"
+     width="37.795277"
+     height="18.897638"
+     x="910.86615"
+     y="525.35431" />
+  <path
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     d="m 978.89765,37.795276 h 56.69285 V 151.1811 h 75.5906 v 132.28347 h -56.6929 V 415.74804 H 997.79529 V 207.87401 h -18.89764 z"
+     id="path4494" />
+  <path
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     d="m 978.89758,37.795276 h 56.69302 V 151.1811 h 75.5905 v 132.28346 h -56.6929 V 207.87401 H 978.89758 V 37.795276"
+     id="path2439" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="138.42963"
+     y="577.18793"
+     id="text343"><tspan
+       sodipodi:role="line"
+       id="tspan341"
+       x="138.42963"
+       y="577.18793" /></text>
 </g>
 </svg>
