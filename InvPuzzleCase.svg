@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6838785"
-     inkscape:cx="199.83627"
-     inkscape:cy="299.30901"
+     inkscape:zoom="1.1906819"
+     inkscape:cx="493.83466"
+     inkscape:cy="921.32079"
      inkscape:document-units="mm"
-     inkscape:current-layer="g7502"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
@@ -220,23 +220,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.28604px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.1"
-       x="161.49602"
-       y="237.11922"
+       x="329.51025"
+       y="216.17885"
        id="text8478"
        transform="scale(1.0025127,0.9974936)"><tspan
          sodipodi:role="line"
          id="tspan8476"
          style="text-align:end;text-anchor:end;fill:none;stroke:#0000ff;stroke-width:0.1"
-         x="161.49602"
-         y="237.11922">CMOS Inverter</tspan><tspan
+         x="329.51025"
+         y="216.17885">CMOS Inverter</tspan><tspan
          sodipodi:role="line"
          style="text-align:end;text-anchor:end;fill:none;stroke:#0000ff;stroke-width:0.1"
-         x="161.49602"
-         y="242.47676"
+         x="329.51025"
+         y="221.53639"
          id="tspan8480">L=5000um</tspan></text>
     <g
        id="g9311"
-       transform="matrix(1.2179913,0,0,1.2179657,-245.79317,-50.944175)"
+       transform="matrix(1.2179913,0,0,1.2179657,-44.025037,-62.943601)"
        style="stroke-width:0.821032">
       <g
          stroke="#333333"
@@ -265,5 +265,68 @@
            style="fill:none;stroke:#0000ff;stroke-width:0.100029;stroke-dasharray:none" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#0000ff;stroke-width:0.1"
+       x="293.54153"
+       y="290.43057"
+       id="text363"><tspan
+         sodipodi:role="line"
+         id="tspan361"
+         style="stroke-width:0.1"
+         x="293.54153"
+         y="290.43057">121x55x27</tspan></text>
+    <g
+       id="g1190"
+       transform="matrix(1.109621,0,0,1.1096152,81.346249,-298.20609)"
+       style="stroke-width:0.90121">
+      <g
+         stroke="#333333"
+         stroke-width="0.8"
+         id="g408"
+         transform="matrix(0.9030766,0,0,0.9030766,-51.600221,339.3618)"
+         style="fill:none;stroke:#ff0000;stroke-width:0.0997938;stroke-dasharray:none">
+        <path
+           class="st0"
+           id="snapWtApiSvgPathCut-4"
+           d="m 97,47.4 c 0,0 0,-0.4 0,-0.4 m 0,0 c 0,0 0,-27 0,-27 m 0,0 c 0,0 10,0 10,0 m 0,0 c 0,0 0,2 0,2 m 45,25 c 0,0 0,0.4 0,0.4 M 97.7,20 c 0,0 0,-2.5 0,-2.5 m 0,0 C 97.7,7.8350169 105.53502,0 115.2,0 m 0,0 c 0,0 18.6,0 18.6,0 m 0,0 c 9.66498,0 17.5,7.8350169 17.5,17.5 M 178,47.4 c 0,0 0,120.6 0,120.6 m -25,0 c 0,0 -2,0 -2,0 M 71,47.4 c 0,0 0,-8 0,-8 m 0,0 c 0,0 2,-2 2,-2 m 0,0 c 0,0 1.122754,-4.996257 1.122754,-4.996257 M 97,42.4 c 0,0 0,0 0,0 m -3,-3 c 0,0 0,-10.9 0,-10.9 m 0,0 c 0,0 -14.998904,0 -14.998904,0 m -4.878342,3.903743 C 74.635592,30.121615 76.662055,28.5 79.001096,28.5 M 97,42.4 c -1.656854,0 -3,-1.343146 -3,-3 m -24,8 c 0,0 -55,0 -55,0 m 55,0 c 0,0 1,0 1,0 m -56,0 c 0,0 -15,5 -15,5 m 0,0 C 0,52.4 0,163 0,163 m 16,5 c 0,0 13.25,13.5 13.25,13.5 m 0,0 c 0,0 0,6.75 0,6.75 m 0,0 c 0,0 26.5,0 26.5,0 m 0,0 c 0,0 0,-6.75 0,-6.75 m 0,0 C 55.75,181.5 69,168 69,168 m -54,0 c 0,0 -15,-5 -15,-5 m 71,5 c 0,0 0,26.5 0,26.5 m 0,0 c 0,0 24.337963,0 24.337963,0 m 0,0 c 0,0 -12.837963,-11.75 -12.837963,-11.75 m 0,0 C 82.5,182.75 96,168 96,168 m 2,0 c 0,0 0,20.25 0,20.25 m 0,0 c 0,0 12.75,0 12.75,0 m 0,0 c 0,0 0,-6.75 0,-6.75 m 0,0 c 0,0 28.5,0 28.5,0 m 0,0 c 0,0 0,6.75 0,6.75 m 0,0 c 0,0 11.75,0 11.75,0 m 0,0 c 0,0 0,-20.25 0,-20.25 m -135,0 c 0,0 -1,0 -1,0 m 54,0 c 0,0 1,0 1,0 m 0,0 c 0,0 1,0 1,0 m 25,0 c 0,0 1,0 1,0 m 0,0 c 0,0 1,0 1,0 M 151.3,20 c 0,0 0,-2.5 0,-2.5 M 152,47 c 0,0 0,-27 0,-27 m 0,0 c 0,0 -10,0 -10,0 m 0,0 c 0,0 0,2 0,2 m 36,146 c 0,0 0,26.5 0,26.5 m 0,0 c 0,0 -24.33796,0 -24.33796,0 m 0,0 c 0,0 12.83796,-11.75 12.83796,-11.75 m 0,0 C 166.5,182.75 153,168 153,168 M 178,47.4 c 0,0 0,-8 0,-8 m 0,0 c 0,0 -2,-2 -2,-2 m 0,0 c 0,0 -1.12275,-4.996257 -1.12275,-4.996257 m 0,0 C 174.36441,30.121615 172.33794,28.5 169.9989,28.5 M 155,39.4 c 0,0 0,-10.9 0,-10.9 m 0,0 c 0,0 14.9989,0 14.9989,0 M 152,42.4 c 1.65685,0 3,-1.343146 3,-3"
+           fill="transparent"
+           style="fill:none;stroke:#ff0000;stroke-width:0.0997938;stroke-dasharray:none" />
+      </g>
+      <g
+         stroke="#ffc0cb"
+         stroke-width="0.75"
+         id="g411"
+         transform="matrix(0.9030766,0,0,0.9030766,-51.600221,339.3618)"
+         style="fill:none;stroke:#0000ff;stroke-width:0.0997938;stroke-dasharray:none">
+        <path
+           class="st1"
+           id="snapWtApiSvgPathCrease-1"
+           d="m 97,47 c 0,0 55,0 55,0 m 0,0.4 c 0,0 0,120.6 0,120.6 m -1,0 c 0,0 -53,0 -53,0 m -1,0 c 0,0 0,-120.6 0,-120.6 m 0,0 c 0,0 -26,0 -26,0 m -1,0 c 0,0 0,120.6 0,120.6 m 1,0 c 0,0 25,0 25,0 M 107,21 c 0,0 35,0 35,0 m 10,26.4 c 0,0 26,0 26,0 m -163,0 c 0,0 0,120.6 0,120.6 m 1,0 c 0,0 53,0 53,0 m 109,0 c 0,0 -25,0 -25,0"
+           fill="transparent"
+           style="fill:none;stroke:#0000ff;stroke-width:0.0997938;stroke-dasharray:none" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#0000ff;stroke-width:0.1;stroke-dasharray:none"
+       x="18.282932"
+       y="279.98502"
+       id="text1350"><tspan
+         sodipodi:role="line"
+         id="tspan1348"
+         style="stroke-width:0.1"
+         x="18.282932"
+         y="279.98502">PET-G(0.2mm) </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.1"
+         x="18.282932"
+         y="283.95377"
+         id="tspan1352">Cut=100/18/200</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.1"
+         x="18.282932"
+         y="287.92252"
+         id="tspan1354">Bend=20/100/500</tspan></text>
   </g>
 </svg>
