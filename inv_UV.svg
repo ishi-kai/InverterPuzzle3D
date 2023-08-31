@@ -22,9 +22,9 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="0.51773899"
-   inkscape:cx="539.84731"
-   inkscape:cy="549.50468"
+   inkscape:zoom="3.2741878"
+   inkscape:cx="741.71066"
+   inkscape:cy="455.53282"
    inkscape:document-units="mm"
    inkscape:current-layer="layer1"
    inkscape:document-rotation="0"
@@ -46,6 +46,8 @@
      originx="0"
      originy="0" />
 </sodipodi:namedview>
+
+
 
 
 
@@ -178,6 +180,21 @@
        x="1014.2778"
        y="384.4408"
        style="stroke-width:0.999998">IN</tspan></text>
+  <rect
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#c8ffc8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     id="rect1264"
+     width="18.897648"
+     height="101.81823"
+     x="737.00787"
+     y="389.52032" />
+  <rect
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#ffd5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     id="rect1264-0"
+     width="18.897627"
+     height="64.251999"
+     x="472.44095"
+     y="-891.96851"
+     transform="rotate(90)" />
 </g>
 <g
    inkscape:groupmode="layer"
