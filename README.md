@@ -57,16 +57,16 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 
 
 ### 各レイヤー例
-- ![シリコン層その1：P Sub](/images/InverterPuzzle3D_P-Sub_ClearRed.jpg)
-- ![シリコン層その2：N Well](/images/InverterPuzzle3D_N-Well_ClearGreen.jpg)
-- ![シリコン層その3：N+とP+](/images/InverterPuzzle3D_N-Plus_Yellow-P-Plus_Purple.jpg)
-- ![酸化膜層：](/images/InverterPuzzle3D_GateOxide_Clear.jpg)
-- ![第3層とシリコン層のコンタクト層](/images/InverterPuzzle3D_CNT-VIA_Black_2layer-GateOxide_Clear.jpg)
-- ![第3層：ポリシリコン層](/images/InverterPuzzle3D_POL_Orange.jpg)
-- ![第2層と第3層のVIA層](/images/InverterPuzzle3D_POL_Orange-CNT-VIA_Black_1layer.jpg)
-- ![第2層：メタル層その1](/images/InverterPuzzle3D_ML1_SkyBlue.jpg)
-- ![第1層と第2層のVIA層](/images/InverterPuzzle3D_ML1_SkyBlue-CNT-VIA_Black_1layer.jpg)
-- ![第1層：メタル層その2](/images/InverterPuzzle3D_ML2_ClearBlue.jpg)
+- シリコン層その1：P Sub ![シリコン層その1：P Sub](/images/InverterPuzzle3D_P-Sub_ClearRed.jpg)
+- シリコン層その2：N Well ![シリコン層その2：N Well](/images/InverterPuzzle3D_N-Well_ClearGreen.jpg)
+- シリコン層その3：N+とP+ ![シリコン層その3：N+とP+](/images/InverterPuzzle3D_N-Plus_Yellow-P-Plus_Purple.jpg)
+- 酸化膜層 ![酸化膜層](/images/InverterPuzzle3D_GateOxide_Clear.jpg)
+- 第3層とシリコン層のコンタクト層 ![第3層とシリコン層のコンタクト層](/images/InverterPuzzle3D_CNT-VIA_Black_2layer-GateOxide_Clear.jpg)
+- 第3層：ポリシリコン層 ![第3層：ポリシリコン層](/images/InverterPuzzle3D_POL_Orange.jpg)
+- 第2層と第3層のVIA層 ![第2層と第3層のVIA層](/images/InverterPuzzle3D_POL_Orange-CNT-VIA_Black_1layer.jpg)
+- 第2層：メタル層その1 ![第2層：メタル層その1](/images/InverterPuzzle3D_ML1_SkyBlue.jpg)
+- 第1層と第2層のVIA層 ![第1層と第2層のVIA層](/images/InverterPuzzle3D_ML1_SkyBlue-CNT-VIA_Black_1layer.jpg)
+- 第1層：メタル層その2 ![第1層：メタル層その2](/images/InverterPuzzle3D_ML2_ClearBlue.jpg)
 
 
 ## Author
