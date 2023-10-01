@@ -1,6 +1,7 @@
 # InverterPuzzle
 
-CMOSプロセスで設計したインバータ（NOTゲート）のレイアウトと3次元構造を模したアクリルパズルの加工データです。
+CMOSプロセスで設計したインバータ（NOTゲート）のレイアウトと3次元構造を模したアクリルパズルの加工データです。 
+- [Inverter Puzzleの詳細説明](https://ishi-kai.org/assets/presentation/202308/InvPuz_LT230804.pptx) 
 
 ## 用意するもの
 - 3mmアクリル板（透明）
@@ -30,7 +31,8 @@ Junichi Akita (akita@ifdl.jp / @akita11)
 
 # InverterPuzzle3D
 
-CMOSプロセスで設計したインバータ（NOTゲート）のレイアウトと3次元構造を模した3Dプリントパズルの加工データです。
+CMOSプロセスで設計したインバータ（NOTゲート）のレイアウトと3次元構造を模した3Dプリントパズルの加工データです。 
+- [Inverter Puzzleの詳細説明](https://ishi-kai.org/assets/presentation/202308/InvPuz_LT230804.pptx) 
 
 ## 用意するもの
 - 3Dプリンター（積層型、光造形型どちらでもOKです）
